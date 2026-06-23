@@ -1,16 +1,36 @@
-## Hi there 👋
+# Elena Petrova
 
-<!--
-**IamElenaPetrova/IamElenaPetrova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python / Django backend** · PostgreSQL · Docker · CI/CD  
+strong SQL & ERP background → backend development
 
-Here are some ideas to get you started:
+**Образование:** высшее, в области информационных технологий
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Проекты
+
+### [rental](https://github.com/IamElenaPetrova/rental) — основной проект
+Система учёта аренды автомобилей и жилья: бронирования, арендаторы, мультивалютные финансы.
+
+- **Live:** [dfrental.net](https://dfrental.net)
+- **Стек:** Django 5, PostgreSQL, Docker, Nginx, Gunicorn, GitHub Actions
+- **Интересно технически:** защита от пересечения бронирований через PostgreSQL `ExclusionConstraint`, Django Admin как рабочий UI
+
+### [foodgram](https://github.com/IamElenaPetrova/foodgram) — дипломный проект
+Сервис рецептов: публикации, избранное, подписки, список покупок с выгрузкой в PDF.
+
+- **Live:** [foodgrammm.hopto.org](https://foodgrammm.hopto.org/)
+- **Стек:** Django, DRF, React, PostgreSQL, Docker, GitHub Actions
+
+---
+
+## Стек
+
+`Python` · `Django` · `DRF` · `PostgreSQL` · `Docker` · `Nginx` · `GitHub Actions` · `SQL`
+
+---
+
+## Контакты
+
+- GitHub: [@IamElenaPetrova](https://github.com/IamElenaPetrova)
+- Telegram: [@ElenaPetrovaTG](https://t.me/ElenaPetrovaTG)
