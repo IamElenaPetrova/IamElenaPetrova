@@ -13,6 +13,6 @@
 
 ---
 
-`Python` `Django` `DRF` `PostgreSQL` `Docker` `Nginx` `GitHub Actions` `SQL`
+`Python` `Django` `DRF` `PostgreSQL` `Rest API` `Docker` `Nginx` `GitHub Actions` `SQL` 
 
 📫 [Telegram](https://t.me/ElenaPetrovaTG)
