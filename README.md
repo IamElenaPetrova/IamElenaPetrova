@@ -5,7 +5,7 @@
 I also build Python services and keep one of them running.
 
 **[rental](https://github.com/IamElenaPetrova/rental)** · [dfrental.net](https://dfrental.net)
-Live ledger for a car and property rental operation: bookings, payers, income and expenses. Django, PostgreSQL, Docker, CI/CD. In daily use.
+Live ledger for a car and property rental operation: bookings, payers, income and expenses. Django, PostgreSQL, Docker, CI/CD. 
 
 **[foodgram](https://github.com/IamElenaPetrova/foodgram)**
 Course project. Recipe service: Django REST API, React, PostgreSQL, Docker, GitHub Actions.
