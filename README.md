@@ -1,18 +1,21 @@
-### Привет, я Elena 👋
+### Elena Petrova
 
-Математик-программист по образованию. Пишу backend на **Python / Django**: PostgreSQL, Docker, CI/CD.  
-Раньше — SQL и ERP, сейчас — веб-разработка и свои проекты в production.
+10+ years in enterprise HR and payroll systems: business logic, SQL, reporting, data migration, and production releases. Those systems are not in public repositories.
+
+I also build Python services and keep one of them running.
+
+**[rental](https://github.com/IamElenaPetrova/rental)** · [dfrental.net](https://dfrental.net)
+Live ledger for an acquaintance's car and property rentals: bookings, payers, income and expenses. Django, PostgreSQL, Docker, CI/CD. In daily use.
+
+**[foodgram](https://github.com/IamElenaPetrova/foodgram)**
+Course project, Yandex Practicum. Recipe service: Django REST API, React, PostgreSQL, Docker, GitHub Actions.
+
+SQL (Microsoft SQL Server, PostgreSQL, Oracle) · Python · Django · Docker · Git
+
+Open to work · [Telegram](https://t.me/ElenaPetrovaTG)
 
 ---
 
-**rental** · [код](https://github.com/IamElenaPetrova/rental) · [dfrental.net](https://dfrental.net)  
-Учёт аренды авто и жилья: бронирования, арендаторы, финансы. Django Admin, PostgreSQL, Docker, автодеплой.
+10+ лет во внедрении корпоративных HR- и расчётных систем: бизнес-логика, SQL, отчётность, миграция данных, запуск в эксплуатацию. Эти системы в открытых репозиториях не лежат.
 
-**foodgram** · [код](https://github.com/IamElenaPetrova/foodgram)  
-Сервис рецептов: публикации, избранное, подписки, список покупок (PDF). DRF, React, Docker, CI/CD.
-
----
-
-`Python` `Django` `DRF` `PostgreSQL` `Rest API` `Docker` `Nginx` `GitHub Actions` `SQL` 
-
-📫 [Telegram](https://t.me/ElenaPetrovaTG)
+Отдельно делаю сервисы на Python. rental — живой учёт аренды недвижимости под требования заказчика. foodgram — учебный проект.
