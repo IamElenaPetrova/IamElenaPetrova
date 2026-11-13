@@ -8,7 +8,7 @@ I also build Python services and keep one of them running.
 Live ledger for an acquaintance's car and property rentals: bookings, payers, income and expenses. Django, PostgreSQL, Docker, CI/CD. In daily use.
 
 **[foodgram](https://github.com/IamElenaPetrova/foodgram)**
-Course project, Yandex Practicum. Recipe service: Django REST API, React, PostgreSQL, Docker, GitHub Actions.
+Course project. Recipe service: Django REST API, React, PostgreSQL, Docker, GitHub Actions.
 
 SQL (Microsoft SQL Server, PostgreSQL, Oracle) · Python · Django · Docker · Git
 
